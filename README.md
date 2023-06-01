@@ -1,1 +1,2 @@
-# Ini Tugas Day 10 Golangnya
+# Ini Tugas Golang Day 10 saya Mas, Yang Tugas Bootstrapnya di branch satu lagi Mas. Makasih Mas sebelumnya.
+
