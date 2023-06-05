@@ -271,4 +271,9 @@ nav {
         height: 20px;
         font-size: 10px !important;
     }
+
+    /* Atur Navbar agar terlihat */
+    nav {
+        margin-bottom: 180px;
+    }
 }
